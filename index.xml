@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kronako</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Kronako</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Dec 2018 16:46:37 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Painting4</title>
+      <link>http://example.org/paintings/painting4/</link>
+      <pubDate>Thu, 06 Dec 2018 16:46:37 -0500</pubDate>
+      
+      <guid>http://example.org/paintings/painting4/</guid>
+      <description> another one number 4 </description>
+    </item>
+    
+    <item>
+      <title>Painting3</title>
+      <link>http://example.org/paintings/painting3/</link>
+      <pubDate>Thu, 06 Dec 2018 16:46:35 -0500</pubDate>
+      
+      <guid>http://example.org/paintings/painting3/</guid>
+      <description>testubg number 3</description>
+    </item>
+    
+    <item>
+      <title>Painting2</title>
+      <link>http://example.org/paintings/painting2/</link>
+      <pubDate>Thu, 06 Dec 2018 16:46:32 -0500</pubDate>
+      
+      <guid>http://example.org/paintings/painting2/</guid>
+      <description> This is a another H1 tag number 2 </description>
+    </item>
+    
+    <item>
+      <title>Painting1</title>
+      <link>http://example.org/paintings/painting1/</link>
+      <pubDate>Thu, 06 Dec 2018 16:46:30 -0500</pubDate>
+      
+      <guid>http://example.org/paintings/painting1/</guid>
+      <description> This is an H1 tag number 1 </description>
+    </item>
+    
+    <item>
+      <title>Veracode</title>
+      <link>http://example.org/projects/veracode/</link>
+      <pubDate>Thu, 06 Dec 2018 16:37:55 -0500</pubDate>
+      
+      <guid>http://example.org/projects/veracode/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
