@@ -6,10 +6,28 @@
     <description>Recent content on Kronako</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Dec 2018 16:46:37 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 09 Dec 2018 19:58:27 -0500</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Real Estate Newton Property</title>
+      <link>http://example.org/photos/realestate-newton/</link>
+      <pubDate>Sun, 09 Dec 2018 19:58:27 -0500</pubDate>
+      
+      <guid>http://example.org/photos/realestate-newton/</guid>
+      <description>The following photos I took for a property. We did not use these photos to show the property, since there was already a different photographer booked for the gig. That said I took these photos to demonstrate what I can do. The main difference between my photos and that of the professional photographer was that the photographer used a full frame camera and kept the photos blown out more, aka very bright and less saturated.</description>
+    </item>
+    
+    <item>
+      <title>Post1</title>
+      <link>http://example.org/blogs/post1/</link>
+      <pubDate>Fri, 07 Dec 2018 07:42:34 -0500</pubDate>
+      
+      <guid>http://example.org/blogs/post1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Painting4</title>
