@@ -2,56 +2,58 @@
 
 <html>
 <head>
-	<title>my awesome ducking site</title>
+	<title>Kronako</title>
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 	<link rel="stylesheet" href="/css/styles.css">
-	<p>this is the head</p>
+	<link rel="stylesheet" href="/css/override.css">
+	<meta name="robots" content="noindex, nofollow">
 </head>
 <body>
 	
 <div class="w3-top">
 	<div class="w3-bar w3-black">
-	  <a href="/" class="w3-bar-item w3-button">Home</a>
-	  <a href="/paintings" class="w3-bar-item w3-button">Paintings</a>
-	  <a href="/projects" class="w3-bar-item w3-button">Projects</a>
+	  <a href="/" class="w3-bar-item w3-button disabled">Home</a>
+	  <a href="/paintings" class="w3-bar-item w3-button disabled">Paintings</a>
+	  <a href="/projects" class="w3-bar-item w3-button disabled">Projects</a>
 	  <a href="/photos" class="w3-bar-item w3-button">Photos</a>
-	  <a href="/blogs" class="w3-bar-item w3-button">Blogs</a>
+	  <a href="/blogs" class="w3-bar-item w3-button disabled">Blogs</a>
 	</div>
 </div>
 
 	<div class="w3-container w3-content">
 	
-	Paintings
+<br>
+<br>
+<br>
+	
 
-	<br>
-	list
+
+	<a href="https://jakegibs617.github.io/paintings/painting4/">
+		<div class="w3-card featured-image">
+		<img src="">
+			<p>Painting4</p>
+		</div>
+	</a>
 
 	
 
-	<a href="http://example.org/paintings/painting4/">Painting4</a>
 
-	<div class="w3-card featured-image">
-		Painting4
+	<a href="https://jakegibs617.github.io/paintings/painting3/">
+		<div class="w3-card featured-image">
 		<img src="">
-	</div>
+			<p>Painting3</p>
+		</div>
+	</a>
 
 	
 
-	<a href="http://example.org/paintings/painting3/">Painting3</a>
 
-	<div class="w3-card featured-image">
-		Painting3
+	<a href="https://jakegibs617.github.io/paintings/painting2/">
+		<div class="w3-card featured-image">
 		<img src="">
-	</div>
-
-	
-
-	<a href="http://example.org/paintings/painting2/">Painting2</a>
-
-	<div class="w3-card featured-image">
-		Painting2
-		<img src="">
-	</div>
+			<p>Painting2</p>
+		</div>
+	</a>
 
 	
 
@@ -59,13 +61,12 @@
 
 <ul class="pagination">
     
-    <li>
-        <a href="/paintings/" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
+    <li class="page-item">
+        <a href="/paintings/" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
     </li>
     
-    <li
-    class="disabled">
-    <a href="" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
+    <li class="page-item disabled">
+    <a href="" class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
     </li>
     
     
@@ -77,8 +78,7 @@
         
     
     
-    <li
-    class="active"><a href="/paintings/">1</a></li>
+    <li class="page-item active"><a class="page-link" href="/paintings/">1</a></li>
     
     
     
@@ -89,17 +89,15 @@
         
     
     
-    <li
-    ><a href="/paintings/page/2/">2</a></li>
+    <li class="page-item"><a class="page-link" href="/paintings/page/2/">2</a></li>
     
     
-    <li
-    >
-    <a href="/paintings/page/2/" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+    <li class="page-item">
+    <a href="/paintings/page/2/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
     </li>
     
-    <li>
-        <a href="/paintings/page/2/" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+    <li class="page-item">
+        <a href="/paintings/page/2/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
     </li>
     
 </ul>
@@ -109,7 +107,7 @@
 	</div>
 
 	<footer>
-<p> this is the footer</p>
+<p> copyright Kronako LLLP 2018</p>
 </footer>
 </body>
 

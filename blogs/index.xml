@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Kronako</title>
-    <link>http://example.org/blogs/</link>
+    <link>https://jakegibs617.github.io/blogs/</link>
     <description>Recent content in Blogs on Kronako</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Dec 2018 07:42:34 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/blogs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jakegibs617.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Post1</title>
-      <link>http://example.org/blogs/post1/</link>
+      <link>https://jakegibs617.github.io/blogs/post1/</link>
       <pubDate>Fri, 07 Dec 2018 07:42:34 -0500</pubDate>
       
-      <guid>http://example.org/blogs/post1/</guid>
+      <guid>https://jakegibs617.github.io/blogs/post1/</guid>
       <description></description>
     </item>
     
