@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Kronako</title>
-    <link>https://jakegibs617.github.io/projects/</link>
-    <description>Recent content in Projects on Kronako</description>
+    <title>Projects on Jacob Giberson.com</title>
+    <link>https://www.jacobgiberson.com/projects/</link>
+    <description>Recent content in Projects on Jacob Giberson.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Dec 2018 16:37:55 -0500</lastBuildDate>
     
-	<atom:link href="https://jakegibs617.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.jacobgiberson.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Veracode</title>
-      <link>https://jakegibs617.github.io/projects/veracode/</link>
+      <link>https://www.jacobgiberson.com/projects/veracode/</link>
       <pubDate>Thu, 06 Dec 2018 16:37:55 -0500</pubDate>
       
-      <guid>https://jakegibs617.github.io/projects/veracode/</guid>
+      <guid>https://www.jacobgiberson.com/projects/veracode/</guid>
       <description></description>
     </item>
     

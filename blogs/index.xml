@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Kronako</title>
-    <link>https://jakegibs617.github.io/blogs/</link>
-    <description>Recent content in Blogs on Kronako</description>
+    <title>Blogs on Jacob Giberson.com</title>
+    <link>https://www.jacobgiberson.com/blogs/</link>
+    <description>Recent content in Blogs on Jacob Giberson.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Dec 2018 07:42:34 -0500</lastBuildDate>
     
-	<atom:link href="https://jakegibs617.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.jacobgiberson.com/blogs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Post1</title>
-      <link>https://jakegibs617.github.io/blogs/post1/</link>
+      <link>https://www.jacobgiberson.com/blogs/post1/</link>
       <pubDate>Fri, 07 Dec 2018 07:42:34 -0500</pubDate>
       
-      <guid>https://jakegibs617.github.io/blogs/post1/</guid>
+      <guid>https://www.jacobgiberson.com/blogs/post1/</guid>
       <description></description>
     </item>
     
