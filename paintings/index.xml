@@ -6,10 +6,22 @@
     <description>Recent content in Paintings on Jacob Giberson Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Dec 2018 22:01:32 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 30 Dec 2018 22:01:32 -0600</lastBuildDate>
     
 	<atom:link href="https://www.jacobgiberson.com/paintings/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Jerry</title>
+      <link>https://www.jacobgiberson.com/paintings/jerry/</link>
+      <pubDate>Sun, 30 Dec 2018 22:01:32 -0600</pubDate>
+      
+      <guid>https://www.jacobgiberson.com/paintings/jerry/</guid>
+      <description>Acrylic on Canvas
+60&#34; x 24&#34;
+2018
+  </description>
+    </item>
     
     <item>
       <title>Two Eight</title>
@@ -18,6 +30,7 @@
       
       <guid>https://www.jacobgiberson.com/paintings/two-eight/</guid>
       <description>Acrylic on Canvas
+27&amp;rdquo; x 57&amp;rdquo;
 2018</description>
     </item>
     
@@ -28,6 +41,7 @@
       
       <guid>https://www.jacobgiberson.com/paintings/mask-on/</guid>
       <description>Acrylic on Canvas
+36&#34; x 24&#34;
 2018
   </description>
     </item>
@@ -39,8 +53,87 @@
       
       <guid>https://www.jacobgiberson.com/paintings/like-father-like-son/</guid>
       <description>Acrylic on Canvas
+84&#34; x 48&#34;
 2018
   </description>
+    </item>
+    
+    <item>
+      <title>Farm House</title>
+      <link>https://www.jacobgiberson.com/paintings/farm-house/</link>
+      <pubDate>Tue, 19 May 2015 07:13:50 -0400</pubDate>
+      
+      <guid>https://www.jacobgiberson.com/paintings/farm-house/</guid>
+      <description>Spray Paint on Panel
+9&#34; x 12&#34;
+2015
+  </description>
+    </item>
+    
+    <item>
+      <title>Scarred Perceptions pt2</title>
+      <link>https://www.jacobgiberson.com/paintings/scarred-perceptions-pt2/</link>
+      <pubDate>Tue, 19 May 2015 07:10:59 -0400</pubDate>
+      
+      <guid>https://www.jacobgiberson.com/paintings/scarred-perceptions-pt2/</guid>
+      <description>Spray Paint on Panel
+16&amp;rdquo; x 16&amp;rdquo;
+2015</description>
+    </item>
+    
+    <item>
+      <title>Waiting Room</title>
+      <link>https://www.jacobgiberson.com/paintings/waiting-room/</link>
+      <pubDate>Mon, 19 May 2014 07:08:44 -0400</pubDate>
+      
+      <guid>https://www.jacobgiberson.com/paintings/waiting-room/</guid>
+      <description>Spray Paint on Panel
+24&amp;rdquo; x 24&amp;rdquo;
+2014</description>
+    </item>
+    
+    <item>
+      <title>Scarred Perceptions</title>
+      <link>https://www.jacobgiberson.com/paintings/scarred-perceptions/</link>
+      <pubDate>Sun, 19 May 2013 07:21:07 -0400</pubDate>
+      
+      <guid>https://www.jacobgiberson.com/paintings/scarred-perceptions/</guid>
+      <description>Oil on Canvas
+96&amp;rdquo; x 48&amp;rdquo;
+2013</description>
+    </item>
+    
+    <item>
+      <title>Street Yellow</title>
+      <link>https://www.jacobgiberson.com/paintings/street-yellow/</link>
+      <pubDate>Sun, 19 May 2013 06:54:34 -0400</pubDate>
+      
+      <guid>https://www.jacobgiberson.com/paintings/street-yellow/</guid>
+      <description>Spray Paint on Concrete on Canvas
+19&amp;rdquo; x 10&amp;rdquo;
+2013</description>
+    </item>
+    
+    <item>
+      <title>Concrete Organism</title>
+      <link>https://www.jacobgiberson.com/paintings/concrete-organism/</link>
+      <pubDate>Sun, 19 May 2013 06:51:58 -0400</pubDate>
+      
+      <guid>https://www.jacobgiberson.com/paintings/concrete-organism/</guid>
+      <description>Spray Paint and Concrete on Canvas
+19&amp;rdquo; x 10&amp;rdquo;
+2013</description>
+    </item>
+    
+    <item>
+      <title>Reach Out and Touch Me</title>
+      <link>https://www.jacobgiberson.com/paintings/reach-out-and-touch-me/</link>
+      <pubDate>Sun, 19 May 2013 06:48:15 -0400</pubDate>
+      
+      <guid>https://www.jacobgiberson.com/paintings/reach-out-and-touch-me/</guid>
+      <description>Oil on Canvas
+8&amp;rdquo; x 16&amp;rdquo;
+2013</description>
     </item>
     
     <item>
@@ -50,7 +143,19 @@
       
       <guid>https://www.jacobgiberson.com/paintings/street-worker-green/</guid>
       <description>Spray Paint on Canvas
+12&amp;rdquo; x 24&amp;rdquo;
 2013</description>
+    </item>
+    
+    <item>
+      <title>Migraine on Paper</title>
+      <link>https://www.jacobgiberson.com/paintings/migraine-on-paper/</link>
+      <pubDate>Wed, 18 May 2011 19:25:33 -0400</pubDate>
+      
+      <guid>https://www.jacobgiberson.com/paintings/migraine-on-paper/</guid>
+      <description>Ink, Graphite, Acrylic on Paper
+22&amp;rdquo; x 30&amp;rdquo;
+2011</description>
     </item>
     
   </channel>
