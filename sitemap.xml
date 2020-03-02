@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.jacobgiberson.com/about/</loc>
+    <lastmod>2020-03-01T23:09:39-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.jacobgiberson.com/paintings/hellboy/</loc>
     <lastmod>2019-10-01T18:21:43-04:00</lastmod>
   </url>
@@ -110,7 +115,7 @@
   
   <url>
     <loc>https://www.jacobgiberson.com/</loc>
-    <lastmod>2019-10-01T18:21:43-04:00</lastmod>
+    <lastmod>2020-03-01T23:09:39-05:00</lastmod>
     <priority>0</priority>
   </url>
   
