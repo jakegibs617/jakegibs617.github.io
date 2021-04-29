@@ -1,145 +1,87 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://www.jacobgiberson.com/about/</loc>
-    <lastmod>2020-03-01T23:09:39-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jacobgiberson.com/paintings/hellboy/</loc>
-    <lastmod>2019-10-01T18:21:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jacobgiberson.com/paintings/jerry/</loc>
-    <lastmod>2018-12-30T22:01:32-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jacobgiberson.com/paintings/two-eight/</loc>
-    <lastmod>2018-12-30T22:01:32-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jacobgiberson.com/paintings/mask-on/</loc>
-    <lastmod>2018-12-30T19:53:31-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jacobgiberson.com/photos/panorama/</loc>
-    <lastmod>2018-12-10T06:44:01-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jacobgiberson.com/photos/interior-painting/</loc>
-    <lastmod>2018-12-10T06:38:02-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jacobgiberson.com/photos/realestate-newton/</loc>
-    <lastmod>2018-12-09T19:58:27-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jacobgiberson.com/blogs/post1/</loc>
-    <lastmod>2018-12-07T07:42:34-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jacobgiberson.com/paintings/like-father-like-son/</loc>
-    <lastmod>2018-12-06T16:46:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jacobgiberson.com/projects/veracode/</loc>
-    <lastmod>2018-12-06T16:37:55-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jacobgiberson.com/paintings/farm-house/</loc>
-    <lastmod>2015-05-19T07:13:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jacobgiberson.com/paintings/scarred-perceptions-pt2/</loc>
-    <lastmod>2015-05-19T07:10:59-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jacobgiberson.com/paintings/waiting-room/</loc>
-    <lastmod>2014-05-19T07:08:44-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jacobgiberson.com/paintings/scarred-perceptions/</loc>
-    <lastmod>2013-05-19T07:21:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jacobgiberson.com/paintings/street-yellow/</loc>
-    <lastmod>2013-05-19T06:54:34-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jacobgiberson.com/paintings/concrete-organism/</loc>
-    <lastmod>2013-05-19T06:51:58-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jacobgiberson.com/paintings/reach-out-and-touch-me/</loc>
-    <lastmod>2013-05-19T06:48:15-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jacobgiberson.com/paintings/street-worker-green/</loc>
-    <lastmod>2013-05-18T20:23:31-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jacobgiberson.com/paintings/migraine-on-paper/</loc>
-    <lastmod>2011-05-18T19:25:33-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jacobgiberson.com/blogs/</loc>
-    <lastmod>2018-12-07T07:42:34-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jacobgiberson.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
   <url>
     <loc>https://www.jacobgiberson.com/</loc>
-    <lastmod>2020-03-01T23:09:39-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2021-04-29T07:10:04-04:00</lastmod>
+  </url><url>
     <loc>https://www.jacobgiberson.com/paintings/</loc>
+    <lastmod>2021-04-29T07:10:04-04:00</lastmod>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/paintings/pondering-through-fog/</loc>
+    <lastmod>2021-04-29T07:10:04-04:00</lastmod>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/about/</loc>
+    <lastmod>2020-03-01T23:09:39-05:00</lastmod>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/paintings/hellboy/</loc>
     <lastmod>2019-10-01T18:21:43-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/paintings/jerry/</loc>
+    <lastmod>2018-12-30T22:01:32-06:00</lastmod>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/paintings/two-eight/</loc>
+    <lastmod>2018-12-30T22:01:32-05:00</lastmod>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/paintings/mask-on/</loc>
+    <lastmod>2018-12-30T19:53:31-05:00</lastmod>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/photos/panorama/</loc>
+    <lastmod>2018-12-10T06:44:01-05:00</lastmod>
+  </url><url>
     <loc>https://www.jacobgiberson.com/photos/</loc>
     <lastmod>2018-12-10T06:44:01-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/photos/interior-painting/</loc>
+    <lastmod>2018-12-10T06:38:02-05:00</lastmod>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/photos/realestate-newton/</loc>
+    <lastmod>2018-12-09T19:58:27-05:00</lastmod>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/blogs/</loc>
+    <lastmod>2018-12-07T07:42:34-05:00</lastmod>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/blogs/post1/</loc>
+    <lastmod>2018-12-07T07:42:34-05:00</lastmod>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/paintings/like-father-like-son/</loc>
+    <lastmod>2018-12-06T16:46:30-05:00</lastmod>
+  </url><url>
     <loc>https://www.jacobgiberson.com/projects/</loc>
     <lastmod>2018-12-06T16:37:55-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/projects/veracode/</loc>
+    <lastmod>2018-12-06T16:37:55-05:00</lastmod>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/paintings/farm-house/</loc>
+    <lastmod>2015-05-19T07:13:50-04:00</lastmod>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/paintings/scarred-perceptions-pt2/</loc>
+    <lastmod>2015-05-19T07:10:59-04:00</lastmod>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/paintings/waiting-room/</loc>
+    <lastmod>2014-05-19T07:08:44-04:00</lastmod>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/paintings/scarred-perceptions/</loc>
+    <lastmod>2013-05-19T07:21:07-04:00</lastmod>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/paintings/street-yellow/</loc>
+    <lastmod>2013-05-19T06:54:34-04:00</lastmod>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/paintings/concrete-organism/</loc>
+    <lastmod>2013-05-19T06:51:58-04:00</lastmod>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/paintings/reach-out-and-touch-me/</loc>
+    <lastmod>2013-05-19T06:48:15-04:00</lastmod>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/paintings/street-worker-green/</loc>
+    <lastmod>2013-05-18T20:23:31-04:00</lastmod>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/paintings/migraine-on-paper/</loc>
+    <lastmod>2011-05-18T19:25:33-04:00</lastmod>
+  </url><url>
+    <loc>https://www.jacobgiberson.com/categories/</loc>
+  </url><url>
     <loc>https://www.jacobgiberson.com/tags/</loc>
-    <priority>0</priority>
   </url>
-  
 </urlset>
