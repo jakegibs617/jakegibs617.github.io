@@ -4,17 +4,16 @@
     <title>Projects on Jacob Giberson Artist</title>
     <link>https://www.jacobgiberson.com/projects/</link>
     <description>Recent content in Projects on Jacob Giberson Artist</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Dec 2018 16:37:55 -0500</lastBuildDate><atom:link href="https://www.jacobgiberson.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Dec 2018 16:37:55 -0500</lastBuildDate>
+    <atom:link href="https://www.jacobgiberson.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Veracode</title>
       <link>https://www.jacobgiberson.com/projects/veracode/</link>
       <pubDate>Thu, 06 Dec 2018 16:37:55 -0500</pubDate>
-      
       <guid>https://www.jacobgiberson.com/projects/veracode/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

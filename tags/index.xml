@@ -4,7 +4,8 @@
     <title>Tags on Jacob Giberson Artist</title>
     <link>https://www.jacobgiberson.com/tags/</link>
     <description>Recent content in Tags on Jacob Giberson Artist</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.jacobgiberson.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://www.jacobgiberson.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

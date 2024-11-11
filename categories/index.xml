@@ -4,7 +4,8 @@
     <title>Categories on Jacob Giberson Artist</title>
     <link>https://www.jacobgiberson.com/categories/</link>
     <description>Recent content in Categories on Jacob Giberson Artist</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.jacobgiberson.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://www.jacobgiberson.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

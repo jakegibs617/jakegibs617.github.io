@@ -1,2 +1,6 @@
 
 google7b92eb51c658adcb.html
+*.DS_Store
+*/.DS_Store
+*/*.DS_Store
+*/*/.DS_Store

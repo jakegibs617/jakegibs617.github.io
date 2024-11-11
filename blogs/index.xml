@@ -4,17 +4,16 @@
     <title>Blogs on Jacob Giberson Artist</title>
     <link>https://www.jacobgiberson.com/blogs/</link>
     <description>Recent content in Blogs on Jacob Giberson Artist</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Dec 2018 07:42:34 -0500</lastBuildDate><atom:link href="https://www.jacobgiberson.com/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Dec 2018 07:42:34 -0500</lastBuildDate>
+    <atom:link href="https://www.jacobgiberson.com/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post1</title>
       <link>https://www.jacobgiberson.com/blogs/post1/</link>
       <pubDate>Fri, 07 Dec 2018 07:42:34 -0500</pubDate>
-      
       <guid>https://www.jacobgiberson.com/blogs/post1/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/jakegibs617/image/upload/c_scale,w_1000/v1544185521/01---63_18210364724_o.webp&#34; alt=&#34;siblings&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
